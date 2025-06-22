@@ -12,3 +12,11 @@ This will install all the required packages listed in package.json.
 The repository includes an HTML template inside a ZIP. <strong>NiceAdminPanel HTML.zip</strong>
 <br />
 <a href="https://github.com/niravkagathara/NiceAdmin_HTML" target="_blank">View Template</a>
+<br/>
+<br/>
+Thanks for downloading this template!
+<br/><br/>
+Template Name: NiceAdmin
+Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
