@@ -17,6 +17,6 @@ The repository includes an HTML template inside a ZIP. <strong>NiceAdminPanel HT
 Thanks for downloading this template!
 <br/><br/>
 Template Name: NiceAdmin
-Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
-Author: BootstrapMade.com
+Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/<br/>
+Author: BootstrapMade.com<br/>
 License: https://bootstrapmade.com/license/
