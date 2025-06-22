@@ -7,3 +7,8 @@ This will install all the required packages listed in package.json.
 <br /><br /><br />
 🧠 Tip<br />
 ⚠️ Make sure you have Node.js and npm installed on your system before running npm install.
+
+<br /><br /><br />
+The repository includes an HTML template inside a ZIP. <strong>NiceAdminPanel HTML.zip</strong>
+<br />
+<a href="https://github.com/niravkagathara/NiceAdmin_HTML" target="_blank">View Template</a>
